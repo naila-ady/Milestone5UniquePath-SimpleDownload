@@ -19,30 +19,30 @@ padding: 20px;
 border-top: 6px solid #003152 ;
 }
 fieldset{
-    border:2px solid #342316;
+    border:2px solid #003152;
     border-radius: 8px;
     padding:20px;
     margin-bottom:20px;
-    background-color: #444444;
+    background-color: #ffffff;
 }
 legend{
     font-weight: bold;
     text-align: left;
     color:white;
     font-size: 30px;
-    border-bottom:3px solid#f85b5be1 ;
+    border-bottom:3px solid#003152 ;
 
 }
 label{
     display:block;
     margin:10px;
-    color: #f85b5be1;
+    color: #003152;
     font-size: 25px;
 }
 .profilePicture{
     display: block;
     margin: 0 auto;
-    border:2px solid #f85b5be1;
+    border:2px solid #003152;
     box-shadow: 0 4px  8px rgba(13, 72, 116, 0.5);
     border-radius: 500%;
     width:150px;
@@ -55,14 +55,14 @@ input,textarea{
     width:calc(100% - 1px);
     padding: 8px;
     margin-top: 4px;
-    border: 1px solid #f85b5be1;
+    border: 1px solid #003152;
     border-radius:4px;
     box-sizing: border-box;
-    background-color: #f8f0f0ec
+    background-color: #ffffff
 
 }
 button{
-    background-color:#f85b5be1;
+    background-color:#003152;
     width: 250px;
     padding: 20px;
     margin: 10px;
@@ -81,15 +81,15 @@ button:hover{
 max-width:600px;
 margin:auto;
 padding: 20px;
-border:2px solid #f85b5be1;
+border:2px solid #003152;
 border-radius: 8px;
 background-color:#fff; ;
 box-shadow: 0,4px,8px,rgba(0, 0, 0, 0.5) ;
-color: #342316;
+color: #003152;
 }
 #resumeOutput> h2{
-    color:#f85b5be1;
-    border-bottom:3px solid#f85b5be1;
+    color:#003152;
+    border-bottom:3px solid#003152;
     font-size: 30px;
     width: 120px;
 }
